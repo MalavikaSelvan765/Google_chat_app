@@ -743,7 +743,7 @@ function healthCheck(event) {
   let config = {
     method: "post",
     headers: {
-      "X-Rundeck-Auth-Token": "Uhoj6U5ITCtorlw9mDOvGZwU6ZlyuGDy",
+      "X-Rundeck-Auth-Token": "xxx",
       Accept: "application/json",
       Cookie:
         "JSESSIONID=node0a3yubggvpmfud3kbux94jf3m33.node0; JSESSIONID=node01of4u4p88k7rm1b9c6ifku2goj47.node0",
@@ -774,7 +774,7 @@ function giveurl(event) {
   let config = {
     method: "post",
     headers: {
-      "X-Rundeck-Auth-Token": "Uhoj6U5ITCtorlw9mDOvGZwU6ZlyuGDy",
+      "X-Rundeck-Auth-Token": "xxx",
       Accept: "application/json",
       Cookie:
         "JSESSIONID=node0a3yubggvpmfud3kbux94jf3m33.node0; JSESSIONID=node01of4u4p88k7rm1b9c6ifku2goj47.node0",
